@@ -1,0 +1,1 @@
+const x = fetch('https://pixabay.com/api/?key=55316744-d36208193e3c53252b47581ad&q=cat').then(res => res.json()).then(res => console.log(res.hits));
