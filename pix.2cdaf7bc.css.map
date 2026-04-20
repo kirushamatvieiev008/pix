@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAKA;;;;AAIA","sources":["src/style.css"],"sourcesContent":["h1 {\n    color: red;\n    /* display: none; */\n}\n\n.image {\n    width: 500px;\n}\n\nul {\n    display: flex;\n}"],"names":[],"version":3,"file":"pix.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
